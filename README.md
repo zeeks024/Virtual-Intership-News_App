@@ -362,14 +362,5 @@ app/src/main/
 
 Project ini dibuat untuk keperluan edukasi sebagai bagian dari Rakamin Bootcamp Task 5.
 
----
-
-## KONTAK
-
-**Developer:** Fikri  
-**Program:** Rakamin Android Development Bootcamp  
-**Tahun:** 2025
-
----
 
 **© 2025 - Mandiri News App - Rakamin Task 5**
