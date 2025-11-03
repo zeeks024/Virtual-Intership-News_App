@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Mandiri" parent="Theme.SplashScreen">
+        <item name="android:windowBackground">@color/mandiri_blue</item>
+        <item name="postSplashScreenTheme">@style/Theme.Mandiri.PostSplash</item>
+    </style>
+    
+    <style name="Theme.Mandiri.PostSplash" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

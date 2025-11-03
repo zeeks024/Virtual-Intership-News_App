@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="headline_news">Berita Terkini</string>
+    <string name="all_news">Semua Berita</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="loading_more">Memuat berita lainnya...</string>
+    <string name="loading">Sedang memuat...</string>
+    <string name="cannot_open_link">Tidak dapat membuka tautan</string>
+    <string name="article_detail">Detail Artikel</string>
+    <string name="back">Kembali</string>
+    <string name="share">Bagikan</string>
+    <string name="copy_link">Salin Tautan</string>
+    <string name="open_in_browser">Buka di Browser</string>
+    <string name="failed_to_load_page">Gagal memuat halaman</string>
+</resources>
